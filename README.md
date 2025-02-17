@@ -1,2 +1,5 @@
 # sprint_daily_study
-sprint daily study 내용 정리 
+코드잇 스프린트 FE 15기 데일리 스터디 내용 정리
+- 💡새롭게 알게 된 내용
+- 📌메모해둘 내용
+- 📑중요하게 생각하는 부분
