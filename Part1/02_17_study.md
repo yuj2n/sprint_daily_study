@@ -37,7 +37,8 @@
 
 ### Codepen
 
-![image.png](attachment:c18f10cc-15fa-4da8-ba05-5336f96a61d3:image.png)
+![image](https://github.com/user-attachments/assets/9c1b7297-8a21-4c61-b96f-7db0e5cfed5c)
+
 
 - 간단히 코드 작성 후 실행해보고 공유 가능한 서비스
 - 다른 사람들이 만든 로그인 페이지 예시를 보며 코드 공부 가능!
