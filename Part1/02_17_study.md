@@ -15,10 +15,10 @@
 ### **오픈그래프 - 소셜 공유 미리보기**
 
 ```jsx
-> <meta property=”og:title” content=”Weekly Codeit”>
-> <meta property=”og:url” content=”https://~”>
-> <meta property=”og:image” content=”https://~”>
-> <meta property=”og:description” content=”이번 주차에 공부한 내용”>
+ <meta property=”og:title” content=”Weekly Codeit”>
+ <meta property=”og:url” content=”https://~”>
+ <meta property=”og:image” content=”https://~”>
+ <meta property=”og:description” content=”이번 주차에 공부한 내용”>
 ```
 
 - 페북 공유 디버거 검색 후 url을 디버그하면 미리보기 정보 확인 가능!
