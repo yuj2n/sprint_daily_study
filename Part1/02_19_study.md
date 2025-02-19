@@ -20,7 +20,7 @@
 
 ### Overflow
 
-![image.png](attachment:dcf6b49c-177a-4636-bf50-4cd2c0a3b560:image.png)
+![image](https://github.com/user-attachments/assets/733452b5-40f5-4ce1-aea9-2f1102df399c)
 
 ```css
 .content {
@@ -50,7 +50,7 @@ p#book.delay.book-info { /* p태그이면서 delay, book-info class를 가진 �
 
 ### **CSS 핵심 개념 - 다양한 색상 단위**
 
-![image.png](attachment:c4b10c95-9063-46a2-bd08-6e7e2dd4eb8f:image.png)
+![image](https://github.com/user-attachments/assets/3dce5284-5efe-4ee5-a1ab-e114967dd281)
 
 - 가끔 **반투명**도 사용할 일이 있음!
 
@@ -100,7 +100,7 @@ p#book.delay.book-info { /* p태그이면서 delay, book-info class를 가진 �
 
 ### 그림자
 
-![image.png](attachment:b755bfa8-7182-4e88-b2b6-069dab022ca2:image.png)
+![image](https://github.com/user-attachments/assets/b1a513a9-b6d7-479a-9de0-bab22ffb465b)
 
 ```css
 .card {
@@ -111,7 +111,7 @@ p#book.delay.book-info { /* p태그이면서 delay, book-info class를 가진 �
 
 ### 불투명도
 
-![image.png](attachment:e76cbdf0-38e9-42fa-a3ab-8ba7adb2eded:image.png)
+![image](https://github.com/user-attachments/assets/98b124d1-9678-4273-8847-8c7dde172e5d)
 
 ```jsx
 .button {
