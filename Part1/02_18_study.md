@@ -15,10 +15,10 @@
 ### **오픈그래프 - 소셜 공유 미리보기**
 
 ```jsx
-> <meta property=”og:title” content=”Weekly Codeit”>
-> <meta property=”og:url” content=”https://~”>
-> <meta property=”og:image” content=”https://~”>
-> <meta property=”og:description” content=”이번 주차에 공부한 내용”>
+ <meta property=”og:title” content=”Weekly Codeit”>
+ <meta property=”og:url” content=”https://~”>
+ <meta property=”og:image” content=”https://~”>
+ <meta property=”og:description” content=”이번 주차에 공부한 내용”>
 ```
 
 - 페북 공유 디버거 검색 후 url을 디버그하면 미리보기 정보 확인 가능!
@@ -37,7 +37,8 @@
 
 ### Codepen
 
-![image.png](attachment:c18f10cc-15fa-4da8-ba05-5336f96a61d3:image.png)
+![image](https://github.com/user-attachments/assets/9c1b7297-8a21-4c61-b96f-7db0e5cfed5c)
+
 
 - 간단히 코드 작성 후 실행해보고 공유 가능한 서비스
 - 다른 사람들이 만든 로그인 페이지 예시를 보며 코드 공부 가능!
