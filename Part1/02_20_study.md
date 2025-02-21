@@ -223,6 +223,7 @@ input::placeholder { color : white; }
 ### 메타 태그
 
 - **OG 태그 사용**
-• [카카오톡 디버거](https://developers.kakao.com/tool/debugger/sharing)
-• [페이스북 디버거](https://developers.facebook.com/tools/debug/)
-• [트위터](https://cards-dev.twitter.com/validator)
+  
+  • [카카오톡 디버거](https://developers.kakao.com/tool/debugger/sharing) <br>
+  • [페이스북 디버거](https://developers.facebook.com/tools/debug/)  <br>
+  • [트위터](https://cards-dev.twitter.com/validator)  <br>
