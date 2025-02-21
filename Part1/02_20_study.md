@@ -12,7 +12,8 @@ https://github.com/yuj2n/sprint_weekly_paper/blob/main/Topic/week1.md
 
 ### Request Bin
 
-![image.png](attachment:ccc02f60-82b6-497d-b385-55cdcd52ad9e:image.png)
+![image](https://github.com/user-attachments/assets/74a34dcb-9ff2-4bbf-9c16-a663edfcd088)
+
 
 - 간단한 서버로 **리퀘스트** 확인 가능
 
@@ -42,7 +43,8 @@ https://github.com/yuj2n/sprint_weekly_paper/blob/main/Topic/week1.md
 
 ### 가로 마진 일정하게
 
-![image.png](attachment:06160c76-0fa8-4362-9deb-ed45f9efdb47:image.png)
+![image](https://github.com/user-attachments/assets/f8051b66-573a-42ca-b519-84d7ca385229)
+
 
 ```html
 <span class="chip">섬</span>
@@ -115,7 +117,8 @@ https://github.com/yuj2n/sprint_weekly_paper/blob/main/Topic/week1.md
 
 ### 리스트 스타일링
 
-![image.png](attachment:c8cc6622-1c89-411e-9d37-b62d5b9d9f21:image.png)
+![image](https://github.com/user-attachments/assets/91c26dd8-afcc-4ff8-946f-9a4a442b1ace)
+
 
 ```html
 <style>
@@ -163,7 +166,8 @@ table {
 
 ### Label
 
-![image.png](attachment:a47f2de6-a51e-4a0f-8b00-a96b8af6c801:image.png)
+![image](https://github.com/user-attachments/assets/448c40e1-5632-4683-80e5-896dae556ed2)
+
 
 ```html
 <label **for**="signup-email">이메일</label>
