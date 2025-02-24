@@ -1,6 +1,7 @@
 # 📝정리 내용
+- CSS 핵심 개념 / HTML 핵심 개념 / 메타 태그
 
-- **위클리 페이퍼** 내용 정리
+- **위클리 페이퍼** 내용 정리 (시맨틱 태그 & 캐스케이딩)
 
 https://github.com/yuj2n/sprint_weekly_paper/blob/main/Topic/week1.md
 
