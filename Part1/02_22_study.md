@@ -61,7 +61,7 @@ git show [태그 이름]
 
 ### Git과 Github 차이
 
-![image.png](attachment:93b632c4-e146-4b69-aca9-70241f56dfd5:image.png)
+![alt text](image-2.png)
 
 - Git: 버전 관리(지난 과정 확인 및 백업) / 협업 가능 툴
 - Github: git으로 관리하는 프로젝트 올려둘 수 있는 사이트(원격 저장소)
@@ -97,7 +97,7 @@ git show [태그 이름]
 
   **--force** 옵션으로 강제로 덮게 된다면 reset 된 **commit**으로 덮어지기 때문이다
 
-![image.png](attachment:ede03079-6c54-401b-8617-425d4b5ff811:image.png)
+![alt text](image-1.png)
 
 | --soft | 커밋만 취소하고 파일 변경 내용은 보존 (stage 상태 유지) |
 | --- | --- |
