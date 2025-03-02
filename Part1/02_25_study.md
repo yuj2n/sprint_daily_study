@@ -16,9 +16,6 @@ git merge --abort
     - 나중에 머지하고 싶을 때
 
 ### Reset
-
-![image.png](attachment:dd826952-da43-4d0b-8ffc-da33c4636c15:image.png)
-
 - 과거의 커밋으로 `reset`을 한다고 그 **이후의 커밋**들이 **삭제 X**, 남아있음
 - 과거의 커밋뿐만 아니라 현재 HEAD가 가리키는 커밋 **이후의 커밋**으로도 가능
 
@@ -26,13 +23,16 @@ git merge --abort
 
 - Reset
 
-![image.png](attachment:1f90bdb8-c7c6-4cfe-83ac-abb6b2745b42:image.png)
+![image](https://github.com/user-attachments/assets/56e6b8f4-6d08-4918-a8b4-374f9d50797d)
+
 
 - Checkout
 
-![image.png](attachment:baf78884-e416-4411-bce8-2ba931aa44e1:image.png)
+![image](https://github.com/user-attachments/assets/bd2a5bc7-201f-4795-941a-dbd191032123)
 
-![image.png](attachment:9a3099a7-52ab-440e-a0f2-07e40ef029cf:image.png)
+
+![image](https://github.com/user-attachments/assets/3a90a756-7a69-4146-a405-da6f3bb0bfc0)
+
 
 - HEAD가 특정 커밋을 **직접 가리키게** 하는 이유: **과거**의 **특정 커밋**에서 **새 브랜치**를 만들고 싶을 때
 
@@ -52,7 +52,7 @@ git show [commit hash]
 
 ### Revert
 
-![image.png](attachment:f669a38e-8f70-41dc-8f3e-8c0760cccfab:image.png)
+<img src="https://github.com/user-attachments/assets/3216946a-5114-40e8-9160-3474dd2f73bd" width="60%" height="60%">
 
 - 현 커밋의 **이전** 커밋과 **이후** 커밋이 동일
 - remote 레포에 올라간 커밋 취소 시 사용
@@ -117,7 +117,7 @@ git commit -m "커밋메시지"
 
 ### Fast-Forward
 
-![image.png](attachment:bca1c2b1-856d-4400-bae1-d1126349bc33:image.png)
+![image](https://github.com/user-attachments/assets/0a67699d-7002-4dcf-a9dd-f265a7c17a12)
 
 ```bash
 git merge premium
@@ -145,6 +145,6 @@ git rebase --continue
 
 ### .gitignore
 
-![image.png](attachment:80900fd7-9559-4bd7-93d0-d5f54f2c6903:image.png)
+<img src="https://github.com/user-attachments/assets/b8e48cb3-b3a2-4360-9dea-8bda45da4c11" width="40%" height="40%">
 
 - github에서 .gitignore 옵션에서 프로그래밍 언어 설정 시 **해당 언어**에 **맞게** Git에 의해 버전 관리 **필요**가 **없는** 파일 이름이 정리된 **.gitignore** 파일 자동 생성
