@@ -6,7 +6,7 @@
 
 ### `main` 제외 브랜치 복사
 
-![image.png](attachment:ae43420f-2d48-43e6-aa1c-49bed0ad45e4:image.png)
+![image](https://github.com/user-attachments/assets/08e077de-ba3c-4a63-9c37-9d65fda137e8)
 
 - `main` 브랜치만 가져오는 옵션, `Basic-본인이름` 브랜치 필요 → ✔ 해제
 - 다른 방법도 있음
@@ -41,7 +41,7 @@ git push origin Basic-본인이름-sprint1
 
 ### 4. Pull Request
 
-![image.png](attachment:38a50776-d39c-4236-9a77-d7ef0defbe90:image.png)
+![image](https://github.com/user-attachments/assets/81c05a7a-c728-4e7b-b48c-91fc5a9e397f)
 
 - 베이스 선택 시
     - 베이스 레포지토리 선택하기: `codeit-bootcamp-frontend`
