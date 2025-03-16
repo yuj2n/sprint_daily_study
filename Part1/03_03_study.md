@@ -5,8 +5,8 @@
 ## 📌 기억할 것
 
 ### Organization
-
-![image.png](attachment:8f76359b-308b-48a8-a48e-f6d5969ef425:image.png)
+<img src="" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/b1a0e3be-3efe-4909-8e71-6ddb4a70b7f4" width="50%" height="50%">
 
 - 프로젝트와 저장소 관리 도구로 보안 향상
 - **Projects**
@@ -14,7 +14,7 @@
     - 진행 상황 **시각화**
     - 작업 **우선순위**
 
-![image.png](attachment:f18bfd12-a69a-4fdf-a8a1-4a3ed593022d:image.png)
+<img src="https://github.com/user-attachments/assets/d2084e8b-1da3-44c1-acd8-863f0c495239" width="50%" height="50%">
 
 - **Teams**
     - collaborator 그룹화
@@ -22,7 +22,7 @@
 
 ### Issues
 
-![image.png](attachment:518d3264-9bb1-453a-b9b5-c66e5f9ffdb0:image.png)
+<img src="https://github.com/user-attachments/assets/ee873055-7eed-4273-9956-e3c83ca0e935" width="50%" height="50%">
 
 - 버그 리포트, 기능 요청
 - 프로젝트 문제 추적 및 해결
@@ -30,7 +30,7 @@
 
 ### Pull Request
 
-![image.png](attachment:8756541b-291d-4b70-b57e-37d79b45ef18:image.png)
+<img src="https://github.com/user-attachments/assets/ab881dce-32c5-448b-91e5-360071356433" width="50%" height="50%">
 
 - 장점
     - 버그 확인 O
@@ -49,8 +49,8 @@
 
 1. **merge commit**을 만들며 합치기
     
-    ![image.png](attachment:43961056-7b48-42ae-82d3-83beaddd2ec1:image.png)
-    
+<img src="https://github.com/user-attachments/assets/2cf28378-aa4a-4f89-ae5b-c6997174a15a" width="50%" height="50%">
+
     - 두 브랜치의 변경 사항 모두 유지하며 병합
     - 장점
         - 브랜치의 히스토리 유지 → 프로젝트 진행 상황 명확
@@ -59,24 +59,23 @@
         - 팀 규모 ⬆ → 히스토리 복잡
 2. **Squash and merge** 하기
     
-    ![image.png](attachment:8982f2b3-9483-4d4d-8c55-fc536fad2da4:image.png)
+<img src="https://github.com/user-attachments/assets/f4b61298-d9dd-4354-aedf-44fe19b5df0a" width="50%" height="50%">
     
     - 모든 변경 사항을 하나의 커밋으로 압축
-    - **장점**
+    - 장점
         - 커밋 히스토리 간단
         - 주요 사항만 압축 병합
-    - **단점**
+    - 단점
         - 작업 상세 이력 손실
         - 개별 맥락&작업 정보 손실로 추후 문제 해결의 ****어려움
         - 커밋 ****아이디 병합으로 여럿이 작업 시 복잡한 문제 야기(github에는 기록 존재)
 3. **Rebase and merge** 하기
     
-    ![image.png](attachment:cd8953af-01d0-4a5e-8462-69b0d1b825ab:image.png)
-    
+<img src="https://github.com/user-attachments/assets/52c72699-de87-4558-955e-cb8208eb0962" width="50%" height="50%">
+
     - 현 브랜치를 target 브랜치에 재위치 시킨 후 병합
     - 장점
         - 깨끗하고 선형적인 커밋 히스토리 생성
-        
           → 히스토리 파악 및 코드 변화 이해
         
     - 단점
