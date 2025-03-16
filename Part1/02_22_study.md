@@ -62,7 +62,7 @@ git show [태그 이름]
 
 ### Git과 Github 차이
 
-![alt text](image-2.png)
+<img src="https://github.com/user-attachments/assets/f55c798e-1901-4d84-903e-fcef419b3153" width="70%" height="70%">
 
 - Git: 버전 관리(지난 과정 확인 및 백업) / 협업 가능 툴
 - Github: git으로 관리하는 프로젝트 올려둘 수 있는 사이트(원격 저장소)
@@ -82,7 +82,7 @@ git show [태그 이름]
 
 ### 파일의 상태
 
-![alt text](image.png)
+<img src="https://github.com/user-attachments/assets/f5c80ed5-553b-4974-aaf7-eed9e49d8818" width="70%" height="70%">
 
 - **Untracked** : 생성 후 한 번도 add하지 않은 상태
 - **Tracked**
@@ -98,7 +98,7 @@ git show [태그 이름]
 
   **--force** 옵션으로 강제로 덮게 된다면 reset 된 **commit**으로 덮어지기 때문이다
 
-![alt text](image-1.png)
+<img src="https://github.com/user-attachments/assets/d6958f24-eb91-41a0-bed0-d044e90757e0" width="70%" height="70%">
 
 | --soft | 커밋만 취소하고 파일 변경 내용은 보존 (stage 상태 유지) |
 | --- | --- |
