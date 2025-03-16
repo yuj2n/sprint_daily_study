@@ -42,14 +42,15 @@
 - ❓div{ float: left; } 값이 992px 이상일 때에도 적용되는 이유
 
 ### BootStrap
+<img src="" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/014c0ed0-8d0d-4130-b89e-b698130c6081" width="50%" height="50%">
 
-![image.png](attachment:d27ffe6c-f425-44e0-ae82-8468d0cc68bc:image.png)
 
 - 사용
     - css link 태그 위에 <link> 태그 추가
     - body 끝에 <script>태그 추가
 
-![image.png](attachment:a15a2271-75fc-4624-b9ad-ebdfd564ffa8:image.png)
+<img src="https://github.com/user-attachments/assets/835e934c-dc62-4610-8a4c-f56d98713e26" width="70%" height="70%">
 
 ```css
 <div class="container">
@@ -66,8 +67,7 @@
     
     → `12`는 상당히 많은 숫자들(`1`, `2`, `3`, `4`, `6`, `12`)로 나누어지기 때문에 굉장히 유연
     
-
-![image.png](attachment:bd4473d2-43b1-44b1-945e-1584122f0013:image.png)
+<img src="https://github.com/user-attachments/assets/f249eeb2-1829-430e-9293-90f13e672b29" width="70%" height="70%">
 
 ```css
 <div class="container">
