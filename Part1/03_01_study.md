@@ -88,7 +88,7 @@ div {
 
 ### Inline-flex
 
-![image.png](attachment:dbebf582-2bb8-4fe1-b453-051a679444a7:image.png)
+<img src="https://github.com/user-attachments/assets/c05f726b-b60b-4221-91f5-ecdee929eb51" width="40%" height="40%">
 
 ```css
 .new-window-link {
@@ -102,7 +102,8 @@ div {
 
 ### Grid
 
-![image.png](attachment:6a8239d2-7b46-43cc-9ed2-dfbf64d238b9:image.png)
+<img src="https://github.com/user-attachments/assets/f0092637-d8c9-43a2-bb7d-08393fa6929d" width="50%" height="50%">
+
 
 ```css
 div {
@@ -135,7 +136,7 @@ div2 {
 
 ### 이름으로 배치
 
-![image.png](attachment:c071cafc-22e4-44a8-ba57-4a9079bb6268:image.png)
+<img src="https://github.com/user-attachments/assets/ad33cf79-d45d-42a9-80e7-e4a7abf9127b" width="30%" height="30%">
 
 ```css
 div {
@@ -227,9 +228,9 @@ div2 {
 
 ❓세로로 늘어나거나 줄어들게 하는 방법
 
-![image.png](attachment:caf97174-45f4-489a-9dda-3c9e298079ee:image.png)
+<img src="https://github.com/user-attachments/assets/30c50597-7f9c-48e4-8de9-8f6c2ecf0ca5" width="60%" height="60%">
 
-[20250228_230847.mp4](attachment:91de3a5d-718f-40c6-9867-2b557dce6b89:20250228_230847.mp4)
+https://github.com/user-attachments/assets/9e6da1f4-ccf3-43ca-bada-7d6f4c7816cc
 
 ### 요소 간 여백
 
