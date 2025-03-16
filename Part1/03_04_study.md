@@ -42,7 +42,6 @@
 - ❓div{ float: left; } 값이 992px 이상일 때에도 적용되는 이유
 
 ### BootStrap
-<img src="" width="50%" height="50%">
 <img src="https://github.com/user-attachments/assets/014c0ed0-8d0d-4130-b89e-b698130c6081" width="50%" height="50%">
 
 
