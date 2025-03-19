@@ -61,7 +61,7 @@ let course2 = cloneObj(course1);
 
 ### 참조형
 
-![image.png](attachment:932c98cd-8293-4859-a412-57dd02011e5d:image.png)
+<img src="https://github.com/user-attachments/assets/d04a4822-d9ad-4a0f-b671-7c36ceb0ca89" width="50%" height="50%">
 
 ```jsx
 let x = 3;
