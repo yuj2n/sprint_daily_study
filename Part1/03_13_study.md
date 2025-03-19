@@ -145,7 +145,8 @@ typeof sayHi; // function
 
 ### Boolean 값
 
-![image.png](attachment:0af4a461-f36a-42f4-905b-550428bf866e:image.png)
+<img src="https://github.com/user-attachments/assets/2a559f1e-434d-4155-8110-e223d37b38d0" width="50%" height="50%">
+
 
 - 0과 빈 문자열이 `false` 값이라고 []과 {}이 `false`라고 오해할 수 있지만 둘 다 `true` 값
 - 헷갈리는 경우 `Boolean()`에 값을 넣어 확인
