@@ -29,11 +29,11 @@ console.log(myTags.length); // 0
 
 1. 숫자 형태의 indexing 가능
 
-<img src="https://github.com/user-attachments/assets/98c037f5-aca7-4430-9f8d-52da2a63c4d7" width="40%" height="40%">
+<img src="https://github.com/user-attachments/assets/98c037f5-aca7-4430-9f8d-52da2a63c4d7" width="30%" height="30%">
 
 1. length 프로퍼티 O
 
-<img src="https://github.com/user-attachments/assets/d5749824-f488-4c96-a69a-abb585265296" width="40%" height="40%">
+<img src="https://github.com/user-attachments/assets/d5749824-f488-4c96-a69a-abb585265296" width="30%" height="30%">
 
 1. 배열의 기본 메소드 사용 X
 
@@ -45,7 +45,7 @@ myTags.splice('yujin');
 - 내부 요소는 배열처럼 다루면서 배열 메소드 사용을 막고 싶거나 일반 배열에는 없는 특별한 메소드 제공을 원할 때 활용
 1. `Array.isArray`(유사배열) = false
 
-<img src="https://github.com/user-attachments/assets/78eccf04-e794-43ec-8e22-956cdfc58979" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/78eccf04-e794-43ec-8e22-956cdfc58979" width="70%" height="70%">
 
 - 배열과 비슷하지만 배열 X
 
