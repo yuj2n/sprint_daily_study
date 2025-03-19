@@ -1,4 +1,4 @@
-# 📝정리 내용
+![image](https://github.com/user-attachments/assets/1011d809-b6f5-4b7f-8e61-318a8dbbc760)# 📝정리 내용
 
 - 인터렉티브 자바스크립트 - 이벤트
 
@@ -8,11 +8,11 @@
 
 - 등록 방법
     1. btn.onclick = function() {} 
-    2. <button onclick=”func()” /> 
+    2. `<button onclick=”func()” />` 
     
     → 1,2는 여러 번 등록 시 덮어씀
     
-    1. btn.addEventListener(’click’, event); ← 여러 번 등록 시 모두 **작동**
+    3. btn.addEventListener(’click’, event); ← 여러 번 등록 시 모두 **작동**
 - 주의할 점
     - `btn.removeEventListener(’click’, func() { });`로 이벤트 삭제 시 event에 함수를 직접 넣으면 작동 X → 외부에 함수 작성 후 **전달**
     - `btn.addEventListener(’click’, event1());` 와 같이 소괄호를 붙여주게 되면 함수를 호출하게 되어 undefined가 전달되어 등록 X
@@ -48,9 +48,7 @@ toDoList.addEventListener('click', updateToDo);
 
 ### 마우스 버튼 이벤트
 
- 
-
-![image.png](attachment:18a27d6c-5cf5-471b-bdac-79fd39406358:image.png)
+ <img src="https://github.com/user-attachments/assets/ba82456a-1e67-4496-bc27-c3688cd4e81a" width="50%" height="50%">
 
 1. clientXY: 클라이언트 영역 내 마우스 좌표(화면의 좌측 상단의 모서리 위치를 (0, 0))
 2. offsetXY: 이벤트 발생한 target 기준(대상의 좌측 상단의 모서리 위치를 (0, 0))
