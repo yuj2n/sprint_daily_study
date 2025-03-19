@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1011d809-b6f5-4b7f-8e61-318a8dbbc760)# 📝정리 내용
+# 📝정리 내용
 
 - 인터렉티브 자바스크립트 - 이벤트
 
